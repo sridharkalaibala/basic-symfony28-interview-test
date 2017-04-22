@@ -24,8 +24,7 @@ class NeoCommand extends ContainerAwareCommand
 
             // the full command description shown when running the command with
             // the "--help" option
-            ->setHelp('This command allows you to download NEO data from NASA api')
-        ;
+            ->setHelp('This command allows you to download NEO data from NASA api');
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
