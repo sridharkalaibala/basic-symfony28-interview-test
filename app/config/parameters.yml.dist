@@ -8,3 +8,6 @@ parameters:
     # MongoDB
     mongodb.server: "mongodb://localhost:27017"
     mongodb.default_database: "test"
+    neo:
+        api_key: "N7LkblDsc5aen05FJqBQ8wU4qSdmsftwJagVK7UD"
+        api_url: "https://api.nasa.gov/neo/rest/v1/feed"
