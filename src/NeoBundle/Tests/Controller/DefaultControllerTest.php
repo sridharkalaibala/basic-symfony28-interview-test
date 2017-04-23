@@ -24,7 +24,7 @@ class DefaultControllerTest extends WebTestCase
         $this->assertEquals(200, $client->getResponse()->getStatusCode());
     }
 
-    public function fastestndex()
+    public function testFastest()
     {
         $client = static::createClient();
 
