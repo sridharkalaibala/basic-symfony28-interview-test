@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e757eb-df69-42f8-85af-fb8afa2b2870" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Command/NeoCommandTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Command/TestCommandTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Document/FeedDocumentTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/NeoCommand.php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/TestCommand.php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Controller/DefaultController.php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Controller/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Controller/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Document/Feed.php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Document/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Document/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/NeoBundle.php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Service/Download.php.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Service/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Service/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/css/nv.d3.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/d3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/holder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/html5shiv.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/nv.d3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/respond.min.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/NeoBundle/Controller/DefaultControllerTest.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/basic-symfony28-interview-test.iml" afterPath="$PROJECT_DIR$/.idea/basic-symfony28-interview-test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NeoBundle/Tests/Controller/DefaultControllerTest.php" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Controller/DefaultControllerTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NeoBundle/Tests/Service/DownloadServiceTest.php" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Service/DownloadServiceTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bonusTasksSolutions.php" afterPath="$PROJECT_DIR$/bonusTasksSolutions.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/src/NeoBundle/Tests/Document/FeedDocumentTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#43#84#0#PHP" expanded="true" />
               </folding>
@@ -134,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parameters.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="parameters.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+              <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bonusTasksSolutions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bonusTasksSolutions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="90" column="57" lean-forward="false" selection-start-line="90" selection-start-column="57" selection-end-line="90" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -151,18 +122,6 @@
               <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
               <folding>
                 <element signature="e#35#57#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NeoCommand.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NeoBundle/Command/NeoCommand.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-              <folding>
-                <element signature="e#36#82#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,7 +163,6 @@
         <option value="$PROJECT_DIR$/src/Traits/DocumentSerializer.php" />
         <option value="$PROJECT_DIR$/src/NeoBundle/Document/Feed.php" />
         <option value="$PROJECT_DIR$/src/NeoBundle/Controller/DefaultController.php" />
-        <option value="$PROJECT_DIR$/bonusTasksSolutions.php" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/src/NeoBundle/Command/NeoCommand.php" />
         <option value="$PROJECT_DIR$/tests/NeoBundle/Controller/DefaultControllerTest.php" />
@@ -219,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/NeoBundle/Tests/Service/DownloadServiceTest.php" />
         <option value="$PROJECT_DIR$/src/NeoBundle/Tests/Document/FeedDocumentTest.php" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/bonusTasksSolutions.php" />
       </list>
     </option>
   </component>
@@ -588,12 +547,12 @@
       <workItem from="1492783276253" duration="7026000" />
       <workItem from="1492835202741" duration="3604000" />
       <workItem from="1492843248836" duration="28838000" />
-      <workItem from="1492915837572" duration="8023000" />
+      <workItem from="1492915837572" duration="8435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50263000" />
+    <option name="totallyTimeSpent" value="50675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1922" height="1080" extended-state="6" />
@@ -810,14 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bonusTasksSolutions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="63" column="35" lean-forward="false" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/NasaBundle/Controller/DefaultControllerTest.php" />
     <entry file="file://$PROJECT_DIR$/app/phpunit.xml.dist">
       <provider selected="true" editor-type-id="text-editor">
@@ -893,7 +844,7 @@
         <state relative-caret-position="696">
           <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
           <folding>
-            <element signature="e#42#75#0#PHP" expanded="true" />
+            <element signature="e#42#75#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -969,7 +920,7 @@
     <entry file="file://$PROJECT_DIR$/src/NeoBundle/Tests/Document/FeedDocumentTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#43#84#0#PHP" expanded="true" />
           </folding>
@@ -995,7 +946,15 @@
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bonusTasksSolutions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="90" column="57" lean-forward="false" selection-start-line="90" selection-start-column="57" selection-end-line="90" selection-end-column="57" />
           <folding />
         </state>
       </provider>

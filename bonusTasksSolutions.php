@@ -60,5 +60,33 @@
 // A bread with butter cost 1.10 €. The bread is 1€ more expensive then the butter.
 //
 // How much does the butter cost?
-
+//ANSWER
+//=========================================================================================
 // 0.05€   (0.05 + (0.05 + 1 more))
+//=========================================================================================
+
+/**
+ * Bonus task #4
+ * Go to app/config/config.yml and add the following yaml structure.
+ */
+//ANSWER
+//=========================================================================================
+// Its created under parameter
+//=========================================================================================
+
+/**
+ * Bonus task #5
+ * write a command called test:command which accepts 1 argument id
+ * The command should check if a document with an id of the argument exists
+ * if document exists, return info "document exists"
+ * if document doesn't exist, return error "document doesn't exist"
+ * Add a propmpt for your command. Prompt text is "This is a test. Do you want to continue (y/N) ?"
+ * If you decline, return error "Nothing done. Exiting..."
+ * If you accept, run the command
+
+ */
+//ANSWER
+//=========================================================================================
+// Command is created under /src/NeoBundle/Command/TestCommand.php
+// It can be tested like php /app/console test:command 12
+//=========================================================================================
