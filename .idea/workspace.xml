@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e757eb-df69-42f8-85af-fb8afa2b2870" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.woff2" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Command/NeoCommandTest.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Command/TestCommandTest.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NeoBundle/Tests/Document/FeedDocumentTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/NeoCommand.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/TestCommand.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Command/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Controller/DefaultController.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Controller/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Controller/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Document/Feed.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Document/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Document/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/NeoBundle.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Service/Download.php.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Service/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/Service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/css/nv.d3.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/holder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/nv.d3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test-coverage/js/respond.min.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tests/NeoBundle/Controller/DefaultControllerTest.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/basic-symfony28-interview-test.iml" afterPath="$PROJECT_DIR$/.idea/basic-symfony28-interview-test.iml" />
@@ -71,7 +102,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FeedDocumentTest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FeedDocumentTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NeoBundle/Tests/Document/FeedDocumentTest.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -79,6 +110,36 @@
               <folding>
                 <element signature="e#43#84#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameters.yml.dist" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parameters.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,26 +164,6 @@
               <folding>
                 <element signature="e#36#82#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="parameters.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="56" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="services.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/services.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="66" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -157,7 +198,6 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/web/.htaccess" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
         <option value="$PROJECT_DIR$/app/config/parameters.yml.dist" />
         <option value="$PROJECT_DIR$/app/config/services.yml" />
         <option value="$PROJECT_DIR$/src/NeoBundle/Service/Download.php" />
@@ -178,6 +218,7 @@
         <option value="$PROJECT_DIR$/src/NeoBundle/Tests/Command/TestCommandTest.php" />
         <option value="$PROJECT_DIR$/src/NeoBundle/Tests/Service/DownloadServiceTest.php" />
         <option value="$PROJECT_DIR$/src/NeoBundle/Tests/Document/FeedDocumentTest.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
       </list>
     </option>
   </component>
@@ -422,6 +463,38 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -515,12 +588,12 @@
       <workItem from="1492783276253" duration="7026000" />
       <workItem from="1492835202741" duration="3604000" />
       <workItem from="1492843248836" duration="28838000" />
-      <workItem from="1492915837572" duration="7977000" />
+      <workItem from="1492915837572" duration="8023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50217000" />
+    <option name="totallyTimeSpent" value="50263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="0" width="1922" height="1080" extended-state="6" />
@@ -677,13 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/mongo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -775,25 +841,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config_test.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="56" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,6 +973,30 @@
           <folding>
             <element signature="e#43#84#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="38" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
